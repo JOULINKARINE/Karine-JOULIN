@@ -1,1 +1,10 @@
-
+body {
+  marging: 0;
+}
+#banner1 {
+  display: block;
+  background-color: #109EE0;
+  height : 50px;
+  widht : 100%;
+}
+    
