@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+}
+#banner1 {
+  display: block;
+  background-color: red;
+  height : 50px;
+  width : 100%;
+}
