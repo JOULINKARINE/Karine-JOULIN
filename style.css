@@ -16,6 +16,7 @@ body {
   height:60px;
   width:1000px;
   margin-left:100px;
+  margin-right:600px;
   position:relative;
 }
 
@@ -30,23 +31,21 @@ body {
   text-align:center;
 }
 #top h4 {
-  line-height:80px;
   text-align:center;
 }
 #animation {
   display:block;
   margin-left:100px;
+  margin-right:600px;
   background:url(fleur-116.gif) no-repeat center;
-  widht:1000px;
 }
 #contact {
   display:block;
   weight:30px;
   width:1000px;
-  margin:150 50 50 0;
+  margin:150px 0 50px 10px;
   text-align:center;
   font-size:18px;
-  font-style:bold;
   background:#390100;
   position:relative;
   margin-left:90px;  
