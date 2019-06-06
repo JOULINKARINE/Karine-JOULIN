@@ -43,8 +43,8 @@ body {
 #menu {
   display:block;
   float:right;
-  height:400px;
-  width:500px;
+  height:300px;
+  width:450px;
 }
 
 #menu ul li {
