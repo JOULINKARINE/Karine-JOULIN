@@ -10,8 +10,15 @@ body {
   font-size:14px;
   color:white;
 }
+
 #top {
-  height:1000px;
+  display:block;
+  height:20px;
   margin:50px 50px 50px 0;
   font:bold;
+}
+
+#top h1 {
+  font-size:24px;
+  text-align:left;
 }
