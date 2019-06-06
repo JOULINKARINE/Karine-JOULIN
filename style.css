@@ -45,10 +45,9 @@ body {
 #menu {
   display:block;
   float:right;
-  margin:0 auto;
+  margin:0;
   height:100px;
   width:300px;
-  position:relative;
   background:white;
 }
 
