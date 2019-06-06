@@ -17,7 +17,8 @@ body {
   width:1000px;
   margin:0 auto;
   position:relative;
-  font-style:bold;
+  background:url(fleur-116.gif) no-repeat left;
+  fonte:bold;
 }
 
 #top h1 {
@@ -29,6 +30,7 @@ body {
   text-align:center;
 }
 #top h3 {
+  margin:150px;
   text-align:center;
 }
 #top h4 {
