@@ -16,6 +16,7 @@ body {
   width:1000px;
   margin:0 auto;
   padding:0;
+  display:block;
   position:relative;
   font-style:bold;
 }
@@ -25,15 +26,12 @@ body {
   margin-left:100px;
   text-align:left;
 }
-
 #top h2 {
   text-align:center;
 }
-
 #top h3 {
   text-align:center;
 }
-
 #top h4 {
   text-align:center;
 }
