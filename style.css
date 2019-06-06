@@ -13,8 +13,8 @@ body {
 
 #top {
   display:block;
-  height:80px;
-  width:800px;
+  height:60px;
+  width:1000px;
   margin:0 auto;
   position:relative;
   fonte:bold;
@@ -34,6 +34,6 @@ body {
 #top h4 {
   text-align:center;
   line-height:80px;
-  background:url(fleur-116.gif) no-repeat center;
+  background:url(fleur-116.gif) no-repeat center margin:bottom;
   margin:15 0 0 0;
 }
