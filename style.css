@@ -13,7 +13,7 @@ body {
 #top {
   display:block;
   height:60px;
-  width:500px;
+  width:300px;
   margin-left:100px;
   position:relative;
 }
@@ -36,18 +36,21 @@ body {
   display:block;
   background:url(fleur-116.gif) no-repeat center;
   height:50px;
-  width:500px;
+  width:300px;
   margin-left:100px;
 }
+
 #menu {
   display:block;
+  align:right;
   height:100px;
   width:300px;
+  position:relative;
   margin-top:50px;
   margin-right:50px;
-  align:right;
   background:white;
 }
+
 #contact {
   display:block;
   height:60px;
