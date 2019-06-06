@@ -14,7 +14,7 @@ body {
 #top {
   display:block;
   height:60px;
-  width:1000px;
+  width:400px;
   margin-left:100px;
   margin-right:600px;
   position:relative;
@@ -35,7 +35,6 @@ body {
   text-align:center;
 }
 #animation {
-  display:block;
   margin-left:100px;
   margin-right:600px;
   background:url(fleur-116.gif) no-repeat center;
@@ -49,6 +48,6 @@ body {
   font-size:18px;
   background:#390100;
   position:relative;
-  margin-left:80px;  
+  margin-left:85px;  
 }
   
