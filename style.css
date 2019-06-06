@@ -12,7 +12,6 @@ body {
 
 #top {
   display:block;
-  float:left;
   height:60px;
   width:500px;
   margin-left:100px;
@@ -35,7 +34,6 @@ body {
 }
 #animation {
   display:block;
-  float:left;
   background:url(fleur-116.gif) no-repeat center;
   height:50px;
   width:500px;
@@ -45,7 +43,6 @@ body {
 #menu {
   display:block;
   float:right;
-  margin:0;
   height:100px;
   width:300px;
   background:white;
