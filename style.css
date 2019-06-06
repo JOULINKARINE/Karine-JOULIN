@@ -36,12 +36,15 @@ body {
 }
 #animation {
   background:url(fleur-116.gif) no-repeat center;
+  margin-bottom:130px;
+  margin-left:100px;
+  margin-right:600px;
 }
 #contact {
   display:block;
   weight:30px;
   width:1000px;
-  margin:150px 0 50px 0;
+  margin:150px 0 100px 0;
   text-align:center;
   font-size:18px;
   background:#390100;
