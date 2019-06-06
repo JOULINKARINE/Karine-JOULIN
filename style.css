@@ -58,10 +58,10 @@ body {
   text-decoration:none;
   color:#000000;
   text-align:center;
-  background:url(iconegrise.png) no-repeat center;
-  height:50px;
+  background:url(iconegrise.png) no-repeat bottom center;
+  height:80px;
   width:100px;
-  line-height:80px;
+  line-height:30px;
 }
 
 #footer {
