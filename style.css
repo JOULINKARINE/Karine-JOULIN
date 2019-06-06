@@ -17,7 +17,6 @@ body {
   width:1000px;
   margin:0 auto;
   position:relative;
-  background:url(fleur-116.gif) no-repeat left;
   fonte:bold;
 }
 
@@ -30,9 +29,10 @@ body {
   text-align:center;
 }
 #top h3 {
-  margin:150px;
+  margin:50px;
   text-align:center;
 }
 #top h4 {
   text-align:center;
+  background:url(fleur-116.gif) no-repeat center;
 }
