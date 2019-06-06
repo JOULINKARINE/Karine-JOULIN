@@ -29,12 +29,11 @@ body {
   text-align:center;
 }
 #top h3 {
-  margin:10px;
   text-align:center;
 }
 #top h4 {
   text-align:center;
-  line-height:10px;
+  line-height:30px;
   background:url(fleur-116.gif) no-repeat center;
   margin:15 0 0 0;
 }
