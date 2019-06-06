@@ -1,7 +1,9 @@
 body {
   background:url(fondrouge.png) no-repeat top center;
+  width:500px;
+  height:300px;
   margin:0;
   font-family:verdana, times new roman, serif;
   font-size:24px;
-  color:red;
+  color:white;
 }
