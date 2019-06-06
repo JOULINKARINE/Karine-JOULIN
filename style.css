@@ -43,12 +43,13 @@ body {
 #menu {
   display:block;
   float:right;
-  height:300px;
-  width:450px;
+  height:100px;
+  width:400px;
 }
 
 #menu ul li {
   list-style:none;
+  float:left;
 } 
 #menu ul li a {
   height:80px;
