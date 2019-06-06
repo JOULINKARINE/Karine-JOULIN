@@ -15,14 +15,12 @@ body {
   display:block;
   height:60px;
   width:1000px;
-  margin:0 auto;
+  margin-left:100px;
   position:relative;
-  fonte:bold;
 }
 
 #top h1 {
   font-size:34px;
-  margin-left:100px;
   text-align:left;
 }
 #top h2 {
@@ -37,15 +35,15 @@ body {
 }
 #animation {
   display:block;
+  margin-left:100px;
   background:url(fleur-116.gif) no-repeat center;
-  weight:30px;
   widht:1000px;
 }
 #contact {
   display:block;
   weight:30px;
   width:1000px;
-  margin:150 0 50 0;
+  margin:150 50 50 0;
   text-align:center;
   font-size:18px;
   font-style:bold;
