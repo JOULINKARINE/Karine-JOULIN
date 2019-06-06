@@ -14,14 +14,14 @@ body {
 #top {
   display:block;
   height:60px;
-  width:400px;
+  width:500px;
   margin-left:100px;
   margin-right:600px;
   position:relative;
 }
 
 #top h1 {
-  font-size:34px;
+  font-size:28px;
   text-align:left;
 }
 #top h2 {
@@ -35,9 +35,8 @@ body {
   text-align:center;
 }
 #animation {
-  margin-left:100px;
-  margin-right:600px;
   background:url(fleur-116.gif) no-repeat center;
+  margin:120px 600px 100px 100px;
 }
 #contact {
   display:block;
@@ -48,6 +47,6 @@ body {
   font-size:18px;
   background:#390100;
   position:relative;
-  margin-left:85px;  
+  margin-left:87px;  
 }
   
