@@ -41,15 +41,16 @@ body {
 }
 #menu {
   display:block;
-  height:60px;
-  width:400px;
+  height:100px;
+  width:300px;
   margin-top:50px;
   margin-right:50px;
+  align:right;
   background:white;
 }
 #contact {
   display:block;
-  height:30px;
+  height:60px;
   width:1000px;
   position:relative;
   text-align:center;
