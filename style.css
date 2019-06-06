@@ -1,8 +1,7 @@
 body {
-  background:url(fondrouge.png) no-repeat top center;
+  background:url(fondrouge.png) top center;
   margin:0;
   padding:0;
-  min-width:500xp;
   width:100%;
   position:relative;
   font-family:verdana, times new roman, sans-serif;
