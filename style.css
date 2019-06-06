@@ -13,8 +13,11 @@ body {
 
 #top {
   display:block;
-  height:20px;
-  margin:50px 50px 50px 0;
+  height:10px;
+  width:500px;
+  margin:0 auto;
+  padding:0;
+  position:relative;
   font:bold;
 }
 
