@@ -33,6 +33,7 @@ body {
 }
 #top h4 {
   text-align:center;
-  line-height:80px;
-  background:url(fleur-116.gif) no-repeat;
+}
+#animation {
+  background:url(fleur-116.gif) no-repeat center;
 }
