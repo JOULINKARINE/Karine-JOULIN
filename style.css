@@ -12,9 +12,11 @@ body {
 }
 
 #top {
+  display:block;
   height:30px;
   width:1000px;
   margin:0 auto;
+  position:relative;
   font-style:bold;
 }
 
@@ -23,12 +25,12 @@ body {
   margin-left:100px;
   text-align:left;
 }
-#presentation {
+#top h2 {
   text-align:center;
 }
-#presentation2 {
+#top h3 {
   text-align:center;
 }
-#presentation3 {
+#top h4 {
   text-align:center;
 }
