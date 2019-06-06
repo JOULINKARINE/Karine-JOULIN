@@ -1,10 +1,10 @@
 body {
-  background:url(fondrouge.png) no-repeat top center;
+  background:url(fondrouge.png) no-repeat center;
   width:100%;
   height:100%;
   margin:0;
   padding:0;
   font-family:verdana, times new roman, serif;
   font-size:24px;
-  color:white;
+  color:red;
 }
