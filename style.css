@@ -43,9 +43,8 @@ body {
 #menu {
   display:block;
   float:right;
-  padding:0;
   height:400px;
-  width:300px;
+  width:500px;
 }
 
 #menu ul li {
@@ -58,8 +57,7 @@ body {
   text-decoration:none;
   color:#000000;
   text-align:center;
-  background:url(iconegrise.png) no-repeat bottom center;
-  height:100px;
+  background:url(iconegrise.png) no-repeat bottom center height:100px;
   width:300px;
   line-height:30px;
 }
