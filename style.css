@@ -14,7 +14,7 @@ body {
 #top {
   display:block;
   height:60px;
-  width:500px;
+  width:200px;
   margin-left:100px;
   margin-right:600px;
   position:relative;
@@ -36,18 +36,17 @@ body {
 }
 #animation {
   display:block;
-  background:url(fleur-116.gif) center;
-  margin:120px 500px 150px 100px;
+  background:url(fleur-116.gif) no-repeat center;
+  margin:70px 500px 170px 100px;
 }
 #contact {
   display:block;
   weight:30px;
   width:1000px;
-  margin:140px 0 100px 0;
+  margin:80px 0 150px 0;
   position:relative;
   text-align:center;
   font-size:18px;
   background:#390100;
-  position:relative;
   margin-left:87px;  
 }
