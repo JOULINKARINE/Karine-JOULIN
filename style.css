@@ -42,7 +42,9 @@ body {
 
 #menu {
   display:block;
-  align:right;
+  float:right;
+  margin-top:50px;
+  margin-right:50px;
   height:100px;
   width:300px;
   position:relative;
