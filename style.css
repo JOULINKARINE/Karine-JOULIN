@@ -47,7 +47,10 @@ body {
   width:300px;
   background:white;
 }
-
+#menu ul li {
+  list-style:none;
+  padding:0;
+}  
 #footer {
   display:block;
   height:60px;
