@@ -57,6 +57,7 @@ body {
   text-decoration:none;
   color:#000000;
   text-align:center;
+  display:block;
   background:url(iconerose.png) no-repeat center;
   line-height:30px;
 }
