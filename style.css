@@ -53,13 +53,14 @@ body {
 } 
 #menu ul li a {
   height:30px;
-  width:100%
+  width:100%;
   font-size:14px;
   text-decoration:none;
   color:#000000;
   text-align:center;
   background:url(iconegrise.png);
-  line-height:50px
+  width:100%;
+  line-height:50px;
 }
 
 #footer {
