@@ -38,3 +38,15 @@ body {
 #animation {
   background:url(fleur-116.gif) no-repeat center;
 }
+#contact {
+  display:block;
+  weight:30px;
+  width:1000px;
+  float:left;
+  padding:0;
+  text-align:center;
+  font-size:24px;
+  font-style:bold;
+  background:#390100;
+}
+  
