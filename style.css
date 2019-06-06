@@ -58,8 +58,8 @@ body {
   text-decoration:none;
   color:#000000;
   text-align:center;
-  background:url(iconegrise.png) no-repeat;
-  line-height:50px
+  background:url(iconegrise.png);
+  line-height:80px
 }
 
 #footer {
