@@ -18,10 +18,10 @@ body {
   margin:0 auto;
   padding:0;
   position:relative;
-  font:bold;
+  font-style:bold;
 }
 
 #top h1 {
-  font-size:24px;
-  text-align:left;
+  font-size:48px;
+  text-align:center;
 }
