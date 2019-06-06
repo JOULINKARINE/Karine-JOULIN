@@ -49,7 +49,7 @@ body {
 
 #menu ul li {
   list-style:none;
-  float:left;
+  float:center;
 } 
 #menu ul li a {
   height:80px;
