@@ -41,6 +41,13 @@ body {
   width:500px;
   margin:60px 500px 170px 100px;
 }
+#menu {
+  display:block;
+  height:60px;
+  width:400px;
+  margin:50px 0 80px 600px;
+  background:white;
+}
 #contact {
   display:block;
   height:30px;
