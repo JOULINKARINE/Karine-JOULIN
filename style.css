@@ -20,16 +20,16 @@ body {
   height:30px;
   text-align:center;
   color:white;
-  margin:10px 500px 10px 93px;
+  margin:10px 500px 0 93px;
 }
 #presentation1 {
   font-size:24px;
 }
 #animation {
-  height:20px;
+  height:30px;
   widht:20px;
   background:url(fleur-116.gif) no-repeat center;
-  margin:10px 500px 10px 93px;
+  margin:0 500px 10px 93px;
 }
 
 #menu {
