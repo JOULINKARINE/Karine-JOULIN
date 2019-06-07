@@ -19,11 +19,13 @@ body {
   font-size:1em;
 }
 #presentation {
-  height:30px;
+  float:left;
+  height:300px;
+  width:300px
   text-align:center;
   color:white;
   font-weight:bold;
-  margin:5px 500px 0 92px;
+  margin:5px 20px 0 20px;
 }
 #presentation1 {
   font-size:24px;
@@ -32,12 +34,13 @@ body {
   height:30px;
   widht:20px;
   background:url(fleur-116.gif) no-repeat center;
-  margin:0 500px 0 92px;
+  margin:10px 10px 0 10px;
 }
 
 #menu {
+  float:right;
   width:300px;
-  margin:0 92px 0 700px;
+  margin:5px 20px 0 20px;
 }
 #menu ul li {
   list-style:none;
