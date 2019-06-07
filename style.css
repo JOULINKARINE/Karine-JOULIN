@@ -1,11 +1,11 @@
 body {
-  background:url(fondrouge.png) no-repeat center;
-  background-color:#190101;
+  background:url(fondrouge.png) no-repeat center #5b0002;
+  margin:0;
+  padding:0;
   width:90%;
   height:90%;
-  margin:50px 0 50px 0;
   position:relative;
-  font-family:arial, verdana, times new roman, serif;
+  font-family:Verdana, Geneva, sans-serif;
   font-size:14px;
   color:white;
 }
