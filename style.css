@@ -41,15 +41,15 @@ body {
   padding:0;
 }
 #menu ul li a {
-  height:50px;
+  height:63px;
   width:200px;
-  font-size:14px;
+  font-size:12px;
   line-height:22px;
   color:#000000;
   text-decoration:none;
   text-align:center;
   display:block;
-  background:url(iconedoree.png) no-repeat center;
+  background:url(iconedoree2.png) no-repeat center;
   margin:5px 0 0 0;
 }
 
