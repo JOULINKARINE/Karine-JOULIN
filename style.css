@@ -53,3 +53,12 @@ body {
   margin:5px 0 0 0;
 }
 
+#footer {
+  height:40px;
+  background:#390100;
+  font-size:24px;
+  text-align:center;
+  line-height:40px;
+  color:white;
+  margin:50px 93px 50px 93px;
+}
