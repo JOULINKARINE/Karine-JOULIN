@@ -15,11 +15,14 @@ body {
   color:white;
   margin:10px 92px 50px 92px;
 }
-
+#top h1 {
+  font-size:1em;
+}
 #presentation {
   height:30px;
   text-align:center;
   color:white;
+  font-weight:bold;
   margin:5px 500px 0 92px;
 }
 #presentation1 {
@@ -41,8 +44,8 @@ body {
   padding:0;
 }
 #menu ul li a {
-  font-size:10px;
-  font-style:bold;
+  font-size:8px;
+  font-weight:bold;
   line-height:22px;
   color:#000000;
   text-decoration:none;
