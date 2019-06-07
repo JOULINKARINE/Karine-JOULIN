@@ -39,7 +39,7 @@ body {
   height:30px;
   widht:20px;
   background:url(fleur-116.gif) no-repeat center;
-  margin:50px 20px 0 150px;
+  margin:50px 20px 0 200px;
 }
 
 #menu {
@@ -89,9 +89,9 @@ body {
   background:white;
   font-size:10px;
   color:#000000;
-  margin:5px 20px 0 180px;
+  margin:5px 20px 0 50px;
   text-align:left;
-  height:100px;
+  height:200px;
   widht:150px;
-  line-height:10px;
+  line-height:5px;
 }
