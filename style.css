@@ -13,14 +13,14 @@ body {
   text-align:left;
   line-height:72px;
   color:white;
-  margin:50px 94px 50px 94px;
+  margin:50px 92px 50px 92px;
 }
 
 #presentation {
   height:30px;
   text-align:center;
   color:white;
-  margin:10px 500px 0 94px;
+  margin:10px 500px 0 92px;
 }
 #presentation1 {
   font-size:24px;
@@ -29,12 +29,12 @@ body {
   height:30px;
   widht:20px;
   background:url(fleur-116.gif) no-repeat center;
-  margin:0 500px 10px 94px;
+  margin:0 500px 10px 92px;
 }
 
 #menu {
   width:300px;
-  margin:0 93px 0 700px;
+  margin:0 92px 0 700px;
 }
 #menu ul li {
   list-style:none;
@@ -44,7 +44,7 @@ body {
   height:25px;
   width:300px;
   font-size:14px;
-  line-height:10px;
+  line-height:22px;
   color:#000000;
   text-decoration:none;
   text-align:center;
@@ -54,11 +54,10 @@ body {
 }
 
 #footer {
-  height:70px;
+  height:80px;
   background:#390100;
   font-size:18px;
   text-align:center;
-  line-height:5px;
   color:white;
-  margin:50px 94px 50px 94px;
+  margin:50px 92px 50px 92px;
 }
