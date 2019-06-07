@@ -36,10 +36,11 @@ body {
   line-height:30px;
 }
 #animation {
+  float:left;
   height:30px;
-  widht:20px;
+  widht:300px;
   background:url(fleur-116.gif) no-repeat center;
-  margin:50px 200px 0 20px;
+  margin:5px 20px 0 180px;
 }
 
 #menu {
@@ -86,26 +87,24 @@ body {
 
 #contenu {
   float:left;
+  display:block;
   background:white;
   height:500px;
-  width:300px;
-  margin:5px 0 0 94px;
+  width:400px;
+  margin:20px 0 0 94px;
 }
 #paysage {       
   font-size:10px;
   color:#000000;
-  display:block;
-  padding:0 10px;
   text-align:left;
-  width:290px;
-  line-height:5px;
+  line-height:10px;
 }
 #paysage h2 {
   padding:10px 10px;
-  line-height:5px;
+  line-height:10px;
 }
 #paysage ul {
-  line-height:5px;
+  line-height:10px;
 }
   
   
