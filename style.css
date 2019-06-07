@@ -27,11 +27,12 @@ body {
 }
 #animation {
   background:url(fleur-116.gif) no-repeat center;
+  margin:50px 500px 50px 93px;
 }
 
 #conteneur {
   width:500px;
-  margin:0 93px 0 700px;
+  margin:0 auto;
   background:white;
 }
 
