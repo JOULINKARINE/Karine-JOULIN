@@ -26,13 +26,15 @@ body {
   font-size:24px;
 }
 #animation {
+  height:80px;
+  widht:200px;
   background:url(fleur-116.gif) no-repeat center;
   margin:50px 500px 50px 93px;
 }
 
 #menu {
   width:500px;
-  margin:0 auto;
+  margin:0 93px 0 700px;
   background:white;
 }
 
