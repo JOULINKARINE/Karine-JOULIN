@@ -66,3 +66,11 @@ body {
   color:white;
   margin:50px 92px 0 92px;
 }
+
+#titre {
+  height:25px;
+  font-color:white;
+  font-size:20px;
+  font-weight:bold;
+  text-align:center;
+}
