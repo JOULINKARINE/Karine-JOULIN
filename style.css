@@ -13,14 +13,14 @@ body {
   text-align:left;
   line-height:72px;
   color:white;
-  margin:50px 87px 50px 87px;
+  margin:50px 95px 50px 95px;
 }
 
 #presentation {
   height:100px;
   text-align:center;
   color:white;
-  margin:50px 500px 50px 87px;
+  margin:50px 500px 50px 95px;
 }
 #presentation .nom {
   font-size:24px;
