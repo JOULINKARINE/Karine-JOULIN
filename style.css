@@ -41,8 +41,8 @@ body {
   padding:0;
 }
 #menu ul li a {
-  height:70px;
-  width:100px;
+  height:100px;
+  width:60px;
   font-size:14px;
   line-height:22px;
   color:#000000;
