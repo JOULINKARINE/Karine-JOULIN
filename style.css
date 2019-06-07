@@ -52,8 +52,7 @@ body {
   margin:5px 0 0 0;
 }
 #menu ul li a:hover {
-  background-position:bottom left;
-  line-height:12px;
+  background-position:bottom;
 }
   
 #footer {
