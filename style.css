@@ -39,7 +39,7 @@ body {
   height:30px;
   widht:20px;
   background:url(fleur-116.gif) no-repeat center;
-  margin:50px 20px 0 200px;
+  margin:50px 200px 0 20px;
 }
 
 #menu {
@@ -74,24 +74,42 @@ body {
   color:white;
   margin:400px 92px 0 92px;
 }
-
+/*/PARCOURS PROFESSIONNEL/*/
 #titre {
   height:25px;
   color:white;
-  font-size:20px;
+  font-size:30px;
   font-weight:bold;
   text-align:center;
-  margin:5px 20px 0 20px;
+  margin:3px 20px 0 20px;
 }
 
-#paysage {
+#contenu {
   float:left;
   background:white;
+  height:500px;
+  width:300px;
+  margin:5px 0 0 94px;
+}
+#paysage {       
   font-size:10px;
   color:#000000;
-  margin:5px 20px 0 50px;
+  display:block;
+  padding:0 10px;
   text-align:left;
-  height:200px;
-  widht:150px;
+  width:290px;
   line-height:5px;
 }
+#paysage h2 {
+  padding:10px 10px;
+  line-height:5px;
+}
+#paysage ul {
+  line-height:5px;
+}
+  
+  
+  
+  
+  
+
