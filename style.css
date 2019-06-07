@@ -22,8 +22,11 @@ body {
   color:white;
   margin:50px 500px 50px 93px;
 }
-#presentation .nom {
+#presentation1 {
   font-size:24px;
+}
+#animation {
+  background:url(fleur-116.gif) no-repeat center;
 }
 
 #conteneur {
