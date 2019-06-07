@@ -83,3 +83,14 @@ body {
   text-align:center;
   margin:5px 20px 0 20px;
 }
+
+#paysage {
+  background:white;
+  font-size:10px;
+  color:#000000;
+  margin:5px 20px 0 180px;
+  text-align:left;
+  height:100px;
+  widht:150px;
+  line-height:10px;
+}
