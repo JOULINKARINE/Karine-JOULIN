@@ -15,3 +15,10 @@ body {
   color:white;
   margin:50px 80px 50px 80px;
 }
+
+#presentation {
+  height:100px;
+  text-align:center;
+  color:white;
+  margin:50px 300px 50px 80px;
+}
