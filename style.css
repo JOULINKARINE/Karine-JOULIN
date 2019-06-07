@@ -42,13 +42,14 @@ body {
   padding:0;
 }
 #menu ul li a {
-  height:20px;
+  height:25px;
   width:300px;
   font-size:14px;
+  color:#000000;
   text-decoration:none;
   text-align:center;
   display:block;
   background:url(iconerose.png) no-repeat center;
-  margin:5px 93px 0 0;
+  margin:5px 0 0 0;
 }
 
