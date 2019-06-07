@@ -51,7 +51,11 @@ body {
   background:url(iconedoree.png) no-repeat center;
   margin:5px 0 0 0;
 }
-
+#menu ul li a:hover {
+  background-position:bottom left;
+  line-height:12px;
+}
+  
 #footer {
   height:70px;
   background:#390100 bottom left;
