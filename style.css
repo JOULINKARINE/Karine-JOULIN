@@ -121,6 +121,11 @@ body {
   line-height:10px;
 }
   
-  
-  
+#fleur {
+  float:right;
+  height:30px;
+  widht:300px;
+  background:url(fleur-116.gif) no-repeat center;
+  margin:30px 200px 0 20px;
+}
 
