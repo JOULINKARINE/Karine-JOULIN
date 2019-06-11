@@ -91,7 +91,7 @@ body {
   background:white;
   height:380px;
   width:510px;
-  margin:20px 13 0 94px;
+  margin:30px 13 0 94px;
 }
 #paysage {       
   font-size:10px;
@@ -104,7 +104,7 @@ body {
   line-height:10px;
 }
 #paysage ul {
-  line-height:10px;
+  line-height:12px;
 }
   
   #bureautique {       
