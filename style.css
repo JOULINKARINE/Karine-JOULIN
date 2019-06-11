@@ -107,7 +107,19 @@ body {
   line-height:10px;
 }
   
-  
+  #bureautique {       
+  font-size:10px;
+  color:#000000;
+  text-align:left;
+  line-height:10px;
+}
+#bureautique h2 {
+  padding:10px 10px;
+  line-height:10px;
+}
+#bureautique ul {
+  line-height:10px;
+}
   
   
   
