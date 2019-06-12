@@ -36,11 +36,10 @@ body {
   line-height:30px;
 }
 #animation {
-  float:left;
   height:30px;
   widht:300px;
   background:url(fleur-116.gif) no-repeat center;
-  margin:5px 20px 0 50px;
+  margin:5px 20px 0 180px;
 }
 
 #menu {
