@@ -144,15 +144,15 @@ body {
   display:block;
   background:ffaec8;
   height:100px;
-  width:510px;
-  margin:30px 0 0 110px;
+  width:520px;
+  margin:40px 0 0 10px;
 }
 #amenagementpaysager {       
   float:left;
   display:block;
   font-size:14px;
   color:#000000;
-  text-align:left;
+  text-align:center;
   line-height:14px;
   padding:10px 0 0 10px;
 }
@@ -162,7 +162,7 @@ body {
   font-size:18px;
   color:#000000;
   text-align:center;
-  line-height:18px;
+  line-height:12px;
 }
 
 #diplomes2 {
@@ -171,14 +171,14 @@ body {
   background:c9275b;
   height:150px;
   width:510px;
-  margin:30px 0 0 110px;
+  margin:50px 0 0 20px;
 }
 #gestion {
   float:left;
   display:block;
   font-size:14px;
   color:#000000;
-  text-align:left;
+  text-align:center;
   line-height:12px;
   padding:10px 0 0 10px;
 }
@@ -188,5 +188,5 @@ body {
   height:80px;
   widht:300px;
   background:url(diplome.gif) no-repeat center;
-  margin:30px 200px 0 20px;
+  margin:10px 200px 0 10px;
 }
