@@ -138,7 +138,10 @@ body {
   text-align:center;
   margin:3px 20px 0 20px;
 }
-
+#diplomes {
+  float:left;
+  display:block;
+}
 #diplomes1 {
   float:left;
   display:block;
@@ -173,7 +176,7 @@ body {
   padding:10px 0 0 10px;
 }
   #diplome {
-  float:right;
+  float:left;
   display:block;
   height:80px;
   widht:300px;
