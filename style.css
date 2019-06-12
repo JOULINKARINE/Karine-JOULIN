@@ -122,10 +122,10 @@ body {
   
 #fleur {
   float:right;
-  height:50px;
+  height:100px;
   widht:300px;
   background:url(fleur.png) no-repeat center;
-  margin:30px 200px 0 20px;
+  margin:30px 0 0 200px;
 }
 
 /*/DIPLOMES/*/
