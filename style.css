@@ -154,6 +154,7 @@ body {
   color:#000000;
   text-align:left;
   line-height:14px;
+  padding:10px 0 0 10px;
 }
 #amenagementpaysager p {
   float:left;
@@ -179,11 +180,12 @@ body {
   color:#000000;
   text-align:left;
   line-height:12px;
+  padding:10px 0 0 10px;
 }
   #diplome {
   float:right;
   display:block;
-  height:50px;
+  height:80px;
   widht:300px;
   background:url(diplome.gif) no-repeat center;
   margin:30px 200px 0 20px;
