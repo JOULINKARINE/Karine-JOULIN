@@ -141,45 +141,36 @@ body {
 #diplomes {
   float:left;
   display:block;
+  font-size:14px;
+  color:#000000;
+  height:380px;
+  width:510px;
+  margin:30px 0 0 110px;
 }
 #diplomes1 {
-  float:left;
-  display:block;
   background:ffaec8;
-  height:100px;
+  height:80px;
   width:510px;
-  line-height:14px;
+  line-height:16px;
   text-align:center;
-  margin:40px 200px 94px 10px;
   padding:10px 0 0 10px;
 }
 
 #amenagementpaysager p {
-  float:left;
-  display:block;
-  font-size:14px;
-  color:#000000;
   text-align:center;
   line-height:10px;
 }
 
 #diplomes2 {
-  float:left;
-  display:block;
   background:c9275b;
   height:150px;
   width:510px;
-  font-size:14px;
   line-height:12px;
   text-align:center;
-  margin:50px 200px 94px 20px;
   padding:10px 0 0 10px;
 }
   #diplome {
-  float:left;
-  display:block;
   height:80px;
   widht:300px;
   background:url(diplome.gif) no-repeat center;
-  margin:10px 200px 0 10px;
-}
+ }
