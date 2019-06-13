@@ -37,7 +37,7 @@ body {
 }
 #animation {
   height:30px;
-  widht:300px;
+  width:300px;
   background:url(fleur-116.gif) no-repeat center;
   margin:70px 0 0 20px;
 }
@@ -122,8 +122,8 @@ body {
   
 #fleur {
   float:right;
-  height:100px;
-  widht:200px;
+  height:224px;
+  width:300px;
   background:url(fleur.png) no-repeat center;
   margin:40px 0 0 30px;
 }
@@ -165,7 +165,7 @@ body {
 }
   #diplome {
   height:80px;
-  widht:550px;
+  width:550px;
   background:url(diplome.gif) no-repeat center;
   margin:50px 0 20px 45px;
  }
@@ -206,7 +206,7 @@ body {
 }
   #centreinterets {
   height:50px;
-  widht:550px;
+  width:550px;
   background:url(iconeorange.png) no-repeat center;
   text-align:center;
   text-size:20px;
@@ -240,7 +240,7 @@ body {
 
   #pourquoi {
   height:200px;
-  widht:100px;
+  width:100px;
   background:url(pourquoi.png) no-repeat center;
   margin:40px 0 0 30px;
  }
