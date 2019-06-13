@@ -238,13 +238,11 @@ body {
   padding:2px 0 0 10 px;
 }
 
-  #centreinterets {
-  height:50px;
+  #pourquoi {
+  float:right;
+  display:block;
+  height:150px;
   widht:550px;
   background:url(iconeorange.png) no-repeat center;
-  text-align:center;
-  text-size:20px;
-  text-weight:bold;
   margin:15px 0 10px 20px;
-  padding:2px 0 0 0;
  }
