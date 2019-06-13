@@ -189,19 +189,19 @@ body {
 }
 #activites {
   background:white;
-  height:180px;
+  height:100px;
   width:580px;
   line-height:16px;
-  text-align:center;
+  text-align:left;
   padding:10px 0 0 10px;
 }
 
 #interets {
   background:white;
-  height:250px;
+  height:150px;
   width:580px;
   line-height:12px;
-  text-align:center;
+  text-align:left;
   padding:10px 0 0 10px;
 }
   #diplome {
