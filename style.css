@@ -240,9 +240,8 @@ body {
 
   #pourquoi {
   float:right;
-  display:block;
   height:50px;
   widht:100px;
   background:url(iconeorange.png) no-repeat center;
-  margin:15px 0 0 15px;
+  margin:15px 0 0 680px;
  }
