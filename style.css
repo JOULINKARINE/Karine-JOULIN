@@ -214,3 +214,37 @@ body {
   margin:15px 0 10px 20px;
   padding:2px 0 0 0;
  }
+
+/*/POURQUOI/*/
+#titre {
+  height:25px;
+  color:white;
+  font-size:30px;
+  font-weight:bold;
+  text-align:center;
+  margin:3px 20px 0 20px;
+}
+#explication {
+  float:left;
+  display:block;
+  font-size:13px;
+  color:#000000;
+  background:white;
+  height:380px;
+  width:580px;
+  line-height:14px;
+  text-align:left;
+  margin:20px 0 0 110px;
+  padding:2px 0 0 10 px;
+}
+
+  #centreinterets {
+  height:50px;
+  widht:550px;
+  background:url(iconeorange.png) no-repeat center;
+  text-align:center;
+  text-size:20px;
+  text-weight:bold;
+  margin:15px 0 10px 20px;
+  padding:2px 0 0 0;
+ }
