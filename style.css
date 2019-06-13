@@ -193,16 +193,19 @@ body {
   width:580px;
   line-height:15px;
   text-align:left;
-  padding:0 0 0 10px;
+  padding:2px 0 0 10px;
 }
-
+#activites p {
+  font-size:16px;
+  font-weight:bold;
+}
 #interets {
   background:white;
   height:180px;
   width:580px;
   line-height:15px;
   text-align:left;
-  padding:0 0 0 10px;
+  padding:2px 0 0 10px;
 }
   #centreinterets {
   height:50px;
@@ -211,4 +214,5 @@ body {
   text-align:center;
   text-size:20px;
   margin:10px 0 20px 20px;
+  padding:4px 0 0 0;
  }
