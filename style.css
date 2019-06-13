@@ -231,18 +231,18 @@ body {
   color:#000000;
   background:white;
   height:380px;
-  width:580px;
+  width:600px;
   line-height:14px;
   text-align:left;
   margin:20px 0 0 110px;
-  padding:2px 0 0 10 px;
+  padding:2px 0 0 10px;
 }
 
   #pourquoi {
   float:right;
   display:block;
   height:150px;
-  widht:550px;
+  widht:300px;
   background:url(iconeorange.png) no-repeat center;
-  margin:15px 0 10px 20px;
+  margin:15px 150 10px 20px;
  }
