@@ -42,7 +42,7 @@ body {
   margin:70px 0 0 20px;
 }
 
-#menu {
+#presentationmenu {
   float:right;
   width:250px;
   margin:30px 200px 0 20px;
@@ -239,9 +239,8 @@ body {
 }
 
   #pourquoi {
-  float:right;
   height:50px;
   widht:100px;
   background:url(iconeorange.png) no-repeat center;
-  margin:15px 200px 0 20px;
+  margin:15px 0 0 20px;
  }
