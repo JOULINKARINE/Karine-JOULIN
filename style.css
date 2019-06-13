@@ -204,9 +204,10 @@ body {
   text-align:left;
   padding:10px 0 0 10px;
 }
-  #diplome {
+  #centreinterets {
   height:80px;
   widht:550px;
-  background:url(diplome.gif) no-repeat center;
+  background:url(iconegrise.png) no-repeat center;
+  text-align:center;
   margin:50px 0 20px 45px;
  }
