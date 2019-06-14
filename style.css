@@ -241,7 +241,7 @@ body {
   background:url(pourquoi.png) no-repeat center;
   margin:40px 0 0 30px;
  }
-/*/POURQUOI/*/
+/*/CONTACT/*/
 #titre {
   height:25px;
   color:white;
@@ -255,11 +255,12 @@ body {
   display:block;
   font-size:16px;
   color:white;
+  font-weight:bold
   height:350px;
   width:580px;
-  line-height:14px;
+  line-height:18px;
   text-align:center;
-  margin:30px 0 0 110px;
+  margin:50px 0 0 110px;
 }
 
   #pourquoi {
