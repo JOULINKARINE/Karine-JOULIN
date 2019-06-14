@@ -124,7 +124,7 @@ body {
   height:180px; 
   width:250px; 
   background:url(fleur.png) no-repeat center;
-  margin:10px 0 0 30px;
+  margin:10px 0 0 20px;
 }
 
 /*/DIPLOMES/*/
@@ -238,7 +238,7 @@ body {
 }
 
   #pourquoi {
-  background:url(pourquoi.png) no-repeat center;
+  background:url(pourquoi.gif) no-repeat center;
   margin:40px 0 0 30px;
  }
 /*/CONTACT/*/
